@@ -1,0 +1,1940 @@
+% Hello. 
+hejsan ||| SWE
+% How are you? (when asking after someone who is sick or unwell)
+Hur mår du? ||| SWE
+% How are you? 
+Är det bra? ||| SWE
+% Fine, thank you. 
+Tack, jag mår bra. ||| SWE
+% What is your name? 
+Vad heter du? ||| SWE
+% Nice to meet you. 
+Trevligt att träffa dig ||| SWE
+% Thank you. 
+Tack. ||| SWE
+% You're welcome. 
+Var så god ||| SWE
+% How old are you. 
+Hur gammal är du? ||| SWE
+% Yes. 
+Ja. ||| SWE
+%No. 
+Nej. ||| SWE
+% Maybe. 
+Kanske. ||| SWE
+% Excuse me.  (getting attention) 
+Ursäkta ||| SWE
+% Excuse me.  (begging pardon) 
+Förlåt ||| SWE
+% I'm sorry. 
+Jag är ledsen ||| SWE
+% Farewell 
+Adjö ||| SWE
+% Goodbye 
+Hej då  ||| SWE
+% I can't speak 'Swedish'. 
+Jag kan inte tala 'svenska'||| SWE
+% Does anyone here speak English? 
+Talar någon engelska här?  ||| SWE
+% Is there someone here who speaks English? 
+Finns det någon här som talar engelska  ||| SWE
+% Help! 
+Hjälp!  ||| SWE
+%Look out! 
+Se upp  ||| SWE
+%Good morning. 
+God morgon  ||| SWE
+%Good day. 
+God dag  ||| SWE
+%Good afternoon. 
+God eftermiddag  ||| SWE
+%Good evening. 
+God kväll  ||| SWE
+%Good night  (to sleep) 
+God natt  ||| SWE
+%I understand. 
+Jag förstår ||| SWE
+%I don't understand. 
+Jag förstår inte  ||| SWE
+%Where is the toilet? 
+Var ligger toaletten?  ||| SWE
+% Who are you here with? 
+Vem är du här med?  ||| SWEV
+% I am on my own. 
+Jag är ensam.  ||| SWE
+% My husband. 
+Min man  ||| SWE
+% My wife. 
+Min fru  ||| SWE
+% My boyfriend. 
+Min pojkvän.  ||| SWE
+% My girlfriend. 
+Min flickvän.  ||| SWE
+% My friends. 
+Min vänner.  ||| SWE
+% Leave me alone. 
+Lämna mig ifred  ||| SWE
+% Don't touch me! 
+Rör mig inte  ||| SWE
+% I'll call the police. 
+Jag ringer polisen  ||| SWE
+% Police! 
+Polis!  ||| SWE
+% Stop! Thief! 
+Stopp! Tjuv!  ||| SWE
+% I need your help. 
+Jag behöver din hjälp.  ||| SWE
+% It's an emergency. 
+Det är ett nödläge.  ||| SWE
+% I'm lost. 
+Jag är vilse  ||| SWE
+% I lost my bag. 
+Jag har tappat bort min väska  ||| SWE
+% I lost my wallet. 
+Jag har förlorat min plånbok.  ||| SWE
+% I'm sick. 
+Jag är sjuk.  ||| SWE
+% I've been injured. 
+Jag är skadad.  ||| SWE
+% I need a doctor. 
+Jag behöver en doktor  ||| SWE
+% Can I use your phone? 
+Får jag låna din telefon?  ||| SWE
+% 1 
+En/ett  ||| SWE
+% 2 
+två  ||| SWE
+% 3 
+tre  ||| SWE
+% 4 
+fyra  ||| SWE
+% 5 
+fem  ||| SWE
+% 6 
+sex  ||| SWE
+% 7 
+sju  ||| SWE
+% 8 
+åtta  ||| SWE
+% 9 
+nio  ||| SWE
+% 10 
+tio  ||| SWE
+% 11 
+elva  ||| SWE
+% 12 
+tolv  ||| SWE
+% 13 
+tretton  ||| SWE
+% 14 
+fjorton  ||| SWE
+% 15 
+femton ||| SWE
+% 16 
+sexton  ||| SWE
+% 17 
+sjutton  ||| SWE
+% 18 
+arton  ||| SWE
+% 19 
+nitton  ||| SWE
+% 20 
+tjugo  ||| SWE
+% 21 
+tjugoett ||| SWE
+% 22 
+tjugotvå ||| SWE
+% 23 
+tjugotre ||| SWE
+% 30 
+trettio  ||| SWE
+% 40 
+fyrtio  ||| SWE
+% 50 
+femtio  ||| SWE
+% 60 
+sextio  ||| SWE
+% 70 
+sjuttio  ||| SWE
+% 80 
+åttio  ||| SWE
+% 90 
+nittio  ||| SWE
+% 100 
+ett hundra ||| SWE
+% 175 
+ett hundra sjuttiofem  ||| SWE
+% 200 
+två hundra ||| SWE
+% 300 
+tre hundra  ||| SWE
+% 1000 
+ett tusen  ||| SWE
+% 2000 
+två tusen  ||| SWE
+% 3758 
+Tre tusen sju hundra femtioåtta  ||| SWE
+% 1,000,000 
+En miljon  ||| SWE
+% 1,000,000,000 
+En miljard  ||| SWE
+% 1,000,000,000,000 
+En biljon  ||| SWE
+% half 
+halv  ||| SWE
+% less 
+mindre än  ||| SWE
+% more 
+mer än  ||| SWE
+% now 
+nu  ||| SWE
+% later 
+senare  ||| SWE
+% before 
+före  ||| SWE
+% morning 
+morgon  ||| SWE
+% afternoon 
+eftermiddag  ||| SWE
+% evening 
+kväll  ||| SWE
+% night 
+natt  ||| SWE
+% What time is it? 
+Vad är klockan?  ||| SWE
+% noon 
+eftermiddag  ||| SWE
+% midnight 
+Midnatt  ||| SWE
+% 1;30 pm 
+Halv två  ||| SWE
+% today 
+idag  ||| SWE
+% tonight 
+inatt  ||| SWE
+% yesterday 
+igår  ||| SWE
+% yesternight 
+igår natt  ||| SWE
+% the day before yesterday 
+i förrgår  ||| SWE
+% tomorrow 
+imorgon  ||| SWE
+% the day after tomorrow 
+i övermorgon  ||| SWE
+% this week 
+denna vecka  ||| SWE
+% last week 
+förra veckan  ||| SWE
+% next week 
+nästa vecka  ||| SWE
+% Sunday 
+söndag  ||| SWE
+% Monday 
+måndag  ||| SWE
+% Tuesday 
+tisdag  ||| SWE
+% Wednesday 
+onsdag  ||| SWE
+% Thursday 
+torsdag  ||| SWE
+% Friday 
+fredag  ||| SWE
+% Saturday 
+lördag  ||| SWE
+% January 
+januari  ||| SWE
+% February 
+februari  ||| SWE
+% March 
+mars  ||| SWE
+% April 
+april  ||| SWE
+% May 
+maj  ||| SWE
+% June 
+juni  ||| SWE
+% July 
+juli  ||| SWE
+% August 
+augusti  ||| SWE
+% September 
+september  ||| SWE
+% October 
+oktober  ||| SWE
+% November 
+november  ||| SWE
+% December 
+december  ||| SWE
+% black 
+svart  ||| SWE
+% white 
+vit  ||| SWE
+% gray 
+grå  ||| SWE
+% red 
+röd  ||| SWE
+% blue 
+blå  ||| SWE
+% yellow 
+gul  ||| SWE
+% green 
+grön  ||| SWE
+% orange 
+brandgul  ||| SWE
+% purple 
+purpur  ||| SWE
+% brown 
+brun  ||| SWE
+% How much is a ticket to _____ 
+Vad kostar en biljett till  ||| SWE
+% One ticket to ___. 
+En biljett till .  ||| SWE
+% Where does this train go 
+Vart går detta tåg   ||| SWE
+% Where does this bus go 
+Vart går denna buss  ||| SWE
+% Where is the train to _____ 
+Var är tåget till  ||| SWE
+% Does this train stop in _____ 
+Stannar tåget i ||| SWE
+% When does the train for _____ leave 
+När åker tåget till ||| SWE
+% When will this train arrive in _____ 
+När kommer tåget till ||| SWE
+% How do I get to _____  
+Hur kommer jag till ||| SWE
+% the railway station 
+järnvägsstationen  ||| SWE
+% the bus station 
+busshållplatsen  ||| SWE
+% the airport 
+flygplatsen  ||| SWE
+% downtown 
+centrum  ||| SWE
+% the youth hostel 
+vandrarhemmet  ||| SWE
+% the Canadian consulate 
+det kanadensiska konsulatet  ||| SWE 
+% Where are there a lot of 
+Var finns det många  ||| SWE
+% hotels 
+hotell  ||| SWE
+% restaurants 
+restauranger  ||| SWE
+% bars 
+barer  ||| SWE
+% sites to see 
+sevärdheter  ||| SWE
+% Can you show me on the map 
+Kan du visa mig på kartan  ||| SWE
+% street 
+gatan  ||| SWE
+% Turn left. 
+Gå till vänster.  ||| SWE
+% Turn right. 
+Gå till höger.  ||| SWE
+% left 
+vänster  ||| SWE
+% right 
+höger  ||| SWE
+% over there 
+där borta ||| SWE
+% straight ahead 
+rakt framåt  ||| SWE
+% towards the _____ 
+mot ||| SWE
+% past the _____ 
+förbi ||| SWE
+% before the _____ 
+före ||| SWE
+% Watch for the _____. 
+Titta efter  ||| SWE
+% intersection 
+vägkorsning  ||| SWE
+% north 
+norr  ||| SWE
+% south 
+syd  ||| SWE
+% east 
+öst  ||| SWE
+% west 
+väst  ||| SWE
+% uphill 
+uppe på berget ||| SWE
+% downhill 
+nedanför berget ||| SWE
+% How much does it cost to get to _____ 
+Vad kostar det att åka till ||| SWE
+% Take me there, please. 
+Ta mig dit, är ni snäll.  ||| SWE
+% Do you have any rooms available 
+Finns det några rum lediga  ||| SWE
+% How much is a room for four people 
+Vad kostar ett rum för fyra personer ||| SWE
+% Does the room come with 
+Inkluderas  i rummet  ||| SWE
+% bedsheets 
+lakan  ||| SWE
+% a bathroom 
+ett badrum  ||| SWE
+% a telephone 
+en telefon  ||| SWE
+% a TV 
+en TV  ||| SWE
+% May I see the room first 
+Får jag se rummet först  ||| SWE
+% Do you have anything smaller 
+Finns det något mindre  ||| SWE
+% bigger 
+större  ||| SWE
+% cleaner 
+renare  ||| SWE
+% cheaper 
+billigare  ||| SWE
+% OK, I'll take it. 
+OK, jag tar det.  ||| SWE
+% Can you suggest another hotel 
+Kan du föreslå ett annat hotell  ||| SWE
+% Do you have a safe 
+Har du ett kassaskåp  ||| SWE
+% lockers 
+låsbara skåp  ||| SWE
+% Is supper included 
+Ingår kvällsmat  ||| SWE
+% What time is supper 
+När är det kvällsmat  ||| SWE
+% Please clean my room. 
+Gör rent mitt rum, är ni snäll.  ||| SWE
+% Can you wake me at _____ 
+Kan du väcka mig klockan ||| SWE
+% I want to check out. 
+Jag vill checka ut.  ||| SWE
+% Do you accept British pounds 
+Tar ni brittiska pund  ||| SWE
+% Do you accept Euro 
+Tar ni euro  ||| SWE
+% Do you accept credit cards 
+Tar ni kreditkort  ||| SWE
+% Do you accept cash 
+Tar ni kontanter  ||| SWE
+% Can you change money for me 
+Kan ni växla pengar åt mig  ||| SWE
+% Where can I get money changed 
+Var kan jag växla pengar  ||| SWE
+% Can you change a traveler's check for me 
+Kan du växla en resecheck åt mig  ||| SWE
+% Where can I get a traveler's check changed 
+Var kan jag växla en resecheck  ||| SWE'
+% What is the exchange rate 
+Vad är växelkursen  ||| SWE
+% Where is the nearest ATM
+Var ligger den närmast bankomaten  ||| SWE
+% Bon appetit! 
+Smaklig måltid!  ||| SWE
+% A table for two people, please 
+Ett bord för två, tack  ||| SWE
+% Can I look at the menu, please 
+Får jag se på menyn, tack  ||| SWE
+% Can I look in the kitchen 
+Kan jag titta i köket  ||| SWE
+% Is there a house specialty 
+Finns det en husets special  ||| SWE
+% Is there a local specialty 
+Finns det en lokal specialitet  ||| SWE
+% I'm a vegetarian 
+Jag är vegetarian  ||| SWE
+% I'm a vegan 
+Jag är vegan  ||| SWEY
+% I don't eat pork 
+Jag äter inte fläskkött  ||| SWE
+% I don't eat beef 
+Jag äter inte nötkött  ||| SWE
+% I only eat kosher food 
+Jag äter bara koshermat  ||| SWE
+% breakfast 
+frukost  ||| SWE
+% lunch 
+lunch  ||| SWE
+% tea 
+te  ||| SWE
+% supper 
+middag  ||| SWE
+% I want _____ 
+Jag vill ha ||| SWE
+% chicken 
+kyckling  ||| SWE
+% beef 
+biff/nötkött  ||| SWE
+% fish 
+fisk  ||| SWE
+% ham 
+skinka  ||| SWE
+% sausage 
+korv  ||| SWE
+% cheese 
+ost  ||| SWE
+% egg 
+ägg  ||| SWE
+% fried egg 
+stekt ägg  ||| SWE
+% scrambled egg 
+äggröra  ||| SWE
+% bread 
+bröd  ||| SWE
+% toast 
+rostat bröd  ||| SWE
+% noodles 
+nudlar  ||| SWE
+% rice 
+ris  ||| SWE
+% beans 
+bönor  ||| SWE
+% May I have a glass of _____ 
+Kan jag få ett glas ||| SWE
+% May I have a cup of _____ 
+Kan jag få en kopp ||| SWE
+% May I have a bottle of _____ 
+Kan jag få en flaska ||| SWE
+% coffee 
+kaffe  ||| SWE
+% tea 
+te  ||| SWE
+% fruit juice 
+fruktjuice  ||| SWE
+% bubbly water 
+bubbelvatten  ||| SWEb
+% water 
+vatten  ||| SWE
+% milk 
+mjölk  ||| SWE
+% ice-cream
+glass  ||| SWE
+% beer 
+öl  ||| SWE
+% white wine 
+vitt vin  ||| SWE
+% May I have some _____ 
+Kan jag få lite ||| SWE
+% salt 
+salt  ||| SWE
+% sugar 
+socker  ||| SWE
+% black pepper 
+svartpeppar ||| SWE
+% butter 
+smör  ||| SWE
+% Excuse me, waiter
+Ursäkta, hovmästarn!  ||| SWE
+% I'm finished 
+Jag är klar  ||| SWE
+% It was delicious 
+Det smakade utmärkt  ||| SWE
+% Please clear the plates 
+Ta bort faten, tack  ||| SWE
+% The check, please 
+Notan, tack  ||| SWE
+% Do you serve alcohol 
+Serverar ni alkohol  ||| SWE
+% Is there table service 
+Finns bordsservice  ||| SWE
+% A two beers, please 
+En två öl, tack  ||| SWE
+% A glass of white wine, please 
+Ett glas vitt vin, tack  ||| SWE
+% A pint, please 
+Ett stop, tack  ||| SWE
+% A bottle, please 
+En flaska, tack  ||| SWE
+% water 
+vatten  ||| SWE
+% club soda 
+klubb-soda  ||| SWE
+% tonic water 
+tonikum vatten  ||| SWE
+% orange juice 
+apelsin juice  ||| SWE
+% soda 
+läsk  ||| SWE
+% Do you have any bar snacks 
+Har du något tilltugg   ||| SWE
+% One more, please 
+En till, är ni snäll  ||| SWE
+% Another round, please 
+En runda till  ||| SWE
+% When is closing time 
+När stänger ni  ||| SWE
+% Do you have this in my size 
+Har ni den här i min storlek  ||| SWE
+% How much is this 
+Vad kostar den  ||| SWE
+% That's too expensive 
+Det är för dyrt  ||| SWE
+% expensive 
+dyr ||| SWE
+% cheap 
+billig ||| SWE
+% I don't want it 
+Den vill jag inte ha  ||| SWE
+% You're cheating me 
+Du lurar mig  ||| SWE
+% I'm not interested 
+Jag är inte intresserad  ||| SWE
+% OK, I'll take it 
+Jag tar den!  ||| SWE
+% Can I have a paper bag 
+Kan jag få en papperspåse  ||| SWE
+% Can I have a plastic bag 
+Kan jag få en plastpåse  ||| SWE
+% Do you ship overseas 
+Skickar ni till utlandet  ||| SWE
+% Do you ship 
+Skickar ni varor  ||| SWE
+% I need 
+Jag behöver  ||| SWE
+% toothpaste 
+tandkräm  ||| SWE
+% a toothbrush 
+en tandborste  ||| SWE
+% soap 
+tvål ||| SWE
+% shampoo 
+schampo ||| SWE
+% pain reliever
+något smärtstillande ||| SWE
+% cold medicine
+förkylningsmedicin ||| SWE
+% stomach medicine 
+medicin mot magont ||| SWE
+% a razor 
+ett rakblad ||| SWE
+% an umbrella 
+ett paraply ||| SWE
+% sunblock lotion 
+solskyddskräm ||| SWE
+% a postcard 
+ett vykort ||| SWE
+% postage stamps
+frimärken ||| SWE
+% batteries 
+batterier ||| SWE
+% writing paper 
+skrivpapper  ||| SWE
+% a pen
+en penna ||| SWE
+% English-language books 
+Böcker på engelska ||| SWE
+% English-language magazines 
+vecko- eller månadstidningar på engelska ||| SWE
+% an English-language newspaper
+engelskspråkiga dagstidningar ||| SWE
+% an English-Swedish dictionary 
+en engelsk-svensk ordbok ||| SWE
+% a Swedish-English dictionary
+en svensk-engelsk ordbok ||| SWE
+% A dictionary with both English-Swedish and Swedish-English
+En ordbok med både engelska till svenska och svenska till engelska ||| SWE
+% I want to rent a car
+Jag vill hyra en bil ||| SWE
+% Can I get insurance 
+Kan jag få en försäkring  ||| SWE
+% stop on a street sign 
+stanna vid ett vägmärke  ||| SWE
+% blind alley 
+återvändsgränd  ||| SWE
+% no parking 
+parkering förbjuden  ||| SWE
+% speed limit 
+hastighetsbegränsning  ||| SWE
+% gas station 
+bensinstation/mack  ||| SWE
+% I haven't done anything wrong 
+Jag har inte gjort något fel  ||| SWE
+% It was a misunderstanding 
+Det var ett missförstånd  ||| SWE
+% Where are you taking me 
+Vart tar du mig  ||| SWE
+% Am I under arrest 
+Är jag arresterad  ||| SWE
+% I am an Canadian citizen 
+Jag är kanadensisk medborgare  ||| SWE 
+% I want to talk to the Canadian embassy/consulate 
+Jag vill tala med det kanadensiska konsulatet  ||| SWE
+% I want to talk to a lawyer 
+Jag vill tala med en advokat  ||| SWE
+% Can I just pay a fine now 
+Kan jag betala böterna nu  ||| SWE
+% Good morning. 
+God morgen.  ||| NOR
+% Good evening. 
+God kveld.  ||| NOR
+% Good night  ||| NOR 
+God natt.  ||| NOR
+% Hello.
+God dag. ||| NOR
+% Hello.
+Hei.  ||| NOR
+% How are you? 
+Hvordan går det?  ||| NOR
+% Fine, thank you. 
+takk, bare bra.  ||| NOR
+% What is your name? 
+Hva heter du?  ||| NOR
+% My name is ______ . 
+Jeg heter ||| NOR
+% Nice to meet you. 
+Hyggelig å treffe deg.  ||| NOR
+% Please. 
+Vær så snill.  ||| NOR
+% Thank you. 
+Tusen takk.  ||| NOR
+% You're welcome. 
+Bare hyggelig.  ||| NOR
+% Yes
+Jo.  ||| NOR
+% No. 
+Nei.  ||| NOR
+% Excuse me.  (getting attention) 
+Unnskyld  ||| NOR
+% Excuse me.  (begging pardon) 
+Unnskyld  ||| NOR
+% I'm sorry.  (for a slight mistake) 
+Beklager  ||| NOR
+% I'm sorry. (I really didn't mean it) 
+Jeg beklager så mye  ||| NOR
+% I'm sorry. 
+Jeg er lei meg.  ||| NOR
+% Goodbye 
+Ha det bra!  ||| NOR
+% Goodbye  (informal) 
+Hade!  ||| NOR
+% It was nice seeing/meeting you. Goodbye. 
+Det var hyggelig å treffe deg. Ha det bra!  ||| NOR
+% I can't speak Norwegian. 
+Jeg snakker ikke norsk.  ||| NOR
+% I only know a little Norwegian. 
+Jeg kan bare litt norsk  ||| NOR
+% Excuse me. Do you know how to speak English? 
+Unnskyld, kan du snakke engelsk?  ||| NOR
+% Is there someone here who speaks English? 
+Er det noen som kan snakke engelsk her?  ||| NOR
+% Help! 
+Hjelp!  ||| NOR
+% Good morning. 
+God morgen.  ||| NOR
+% Good evening. 
+God kveld.  ||| NOR
+% Good night. 
+God natt.  ||| NOR
+% I don't understand  ||| NOR
+Jeg forstår deg ikke.  ||| NOR
+% Where is the toilet/bathroom? 
+Hvor er toalettet?  ||| NOR
+% May I borrow your pen? 
+Kunne jeg låne pennen din?  ||| NOR
+% Are there any good sights in the area? 
+Finnes det noen gode severdigheter i området?  ||| NOR
+% You are not Norwegian unless you know five names for different textures of snow 
+Man er ikke norsk med mindre man kan navngi fem typar snø.  ||| NOR
+% Are they joking about these prices? 
+Skal jeg tolke disse her prisene som en spøk?  ||| NOR
+% Where can I purchase a viking helmet? 
+Hvor kan jeg kjøpe en vikinghjelm?  ||| NOR
+% Does this bus take me to Hafrsfjord? 
+Kjører denne bussen til Hafrsfjord?  ||| NOR
+% Leave me alone  
+Kan du la meg være alene.  ||| NOR
+% Don't touch me! 
+Ikke rør meg!  ||| NOR
+% I'll call the police. 
+Jeg ringer politiet.  ||| NOR
+% Police! 
+Politi!  ||| NOR
+% Stop! Thief! 
+Stopp tyven!  ||| NOR
+% I need your help. 
+Jeg trenger din hjelp.  ||| NOR
+% May I ask you for a little assistance? 
+Kan jeg spørre deg om litt hjelp ||| NOR
+% It's an emergency. 
+Det er et nødstilfelle.  ||| NOR
+% I'm lost. 
+Jeg har gått meg bort.  ||| NOR
+% Can you tell me where I am? 
+Kan du si meg hvor jeg er?  ||| NOR
+% Can you tell me the way to ___? 
+Kan du si meg veien til ___?  ||| NOR
+% I lost my ___. 
+Jeg har mistet ||| NOR
+% luggage
+baggasje ||| NOR
+% suitcase
+koffert ||| NOR
+% backpack 
+ryggsekk ||| NOR
+% duffle bag 
+bag ||| NOR
+% shoulder bag 
+skulderveske ||| NOR
+% handbag 
+håndveske ||| NOR
+% plastic bag 
+plastikkpose ||| NOR
+% computer bag 
+data bag ||| NOR
+% wallet 
+lommebok ||| NOR
+% child 
+barn ||| NOR
+% cell phone 
+mobiltelefon ||| NOR
+% I'm sick/ill 
+Jeg er sjuk  ||| NOR
+% I've been injured 
+Jeg har blitt skadd  ||| NOR
+% I've contracted an injuriy 
+Jeg har fått en skade  ||| NOR
+% I need a doctor 
+Jeg trenger  ||| NOR
+% May I borrow your phone 
+Kan jeg få låne telefonen din  ||| NOR
+% 0 
+null  ||| NOR
+% 1 
+en  ||| NOR
+% 2 
+to  ||| NOR
+% 3 
+tre  ||| NOR
+% 4 
+fire  ||| NOR
+% 5 
+fem  ||| NOR
+% 6 
+seks  ||| NOR
+% 7 
+sju  ||| NOR
+% 7 
+syv  ||| NOR
+% 8 
+åtte  ||| NOR
+% 9 
+ni  ||| NOR
+% 10 
+ti  ||| NOR
+% 11 
+elleve  ||| NOR
+% 12 
+tolv  ||| NOR
+% 13 
+tretten  ||| NOR
+% 14 
+fjorten  ||| NOR
+% 15 
+femten  ||| NOR
+% 16 
+seksten  ||| NOR
+% 17 
+sytten  ||| NOR
+% 18 
+atten  ||| NOR
+% 19 
+nitten  ||| NOR
+% 20 
+tjue  ||| NOR
+% 20 
+tyve  ||| NOR
+% 21 
+tjue en  ||| NOR
+% 22 
+tjue to  ||| NOR
+% 23 
+tjue tre  ||| NOR
+% 40 
+førti  ||| NOR
+% 50 
+femti  ||| NOR
+% 60 
+seksti  ||| NOR
+% 70 
+sytti  ||| NOR
+% 80 
+åtti  ||| NOR
+% 90 
+nitti  ||| NOR
+% 100 
+hundre  ||| NOR
+% 200 
+to hundre  ||| NOR
+% 300 
+tre hundre  ||| NOR
+% 1000 
+ett tusen  ||| NOR
+% 1100 
+ett tusen ett hundre ||| NOR
+% 2000 
+to-tusen  ||| NOR
+% 1,000,000 
+en million  ||| NOR
+% half 
+halv  ||| NOR
+% less 
+mindre  ||| NOR
+% more 
+mer  ||| NOR
+% now 
+nå  ||| NOR
+% later 
+seinere  ||| NOR
+% before 
+tidligere  ||| NOR
+% morning 
+morgen  ||| NOR
+% afternoon 
+ettermiddag  ||| NOR
+% evening 
+kveld  ||| NOR
+% night 
+natt  ||| NOR
+% today 
+i dag  ||| NOR
+% yesterday 
+i går  ||| NOR
+% tomorrow 
+i morgen  ||| NOR
+% this week 
+denne uka  ||| NOR
+% last week 
+forrige uke  ||| NOR
+% next week 
+neste uke  ||| NOR
+% Sunday 
+søndag  ||| NOR
+% Monday 
+mandag  ||| NOR
+% Tuesday 
+tirsdag  ||| NOR
+% Wednesday 
+onsdag  ||| NOR
+% Thursday 
+torsdag  ||| NOR
+% Friday 
+fredag  ||| NOR
+% Saturday 
+lørdag  ||| NOR
+% January 
+januar  ||| NOR
+% February 
+februar  ||| NOR
+% March 
+mars  ||| NOR
+% April 
+april  ||| NOR
+% May 
+mai  ||| NOR
+% June 
+juni  ||| NOR
+% July 
+juli  ||| NOR
+% August 
+august  ||| NOR
+% September 
+september  ||| NOR
+% October 
+oktober  ||| NOR
+% November 
+november  ||| NOR
+% December 
+desember  ||| NOR
+% black 
+svart  ||| NOR
+% white 
+hvit  ||| NOR
+% gray 
+grå  ||| NOR
+% red 
+rød  ||| NOR
+% blue 
+blå  ||| NOR
+% yellow 
+gul  ||| NOR
+% green 
+grønn  ||| NOR
+% purple 
+lilla  ||| NOR
+% purple 
+fiolett  ||| NOR
+% brown 
+brun  ||| NOR
+% pink  
+rosa  ||| NOR
+% How much is a ticket to _____ 
+Hvor mye koster en billett til ||| NOR
+% One ticket to _____, please 
+Kan jeg få en billett til ||| NOR
+% Where does this train go 
+Hvor går dette toget bussen  ||| NOR
+% Where is the train to _____ 
+Hvor finner jeg toget til ||| NOR
+% Does this train stop in _____ 
+Stopper dette toget bussen i ||| NOR
+% When does the train for _____ leave 
+Når reiser toget til ||| NOR
+% When will this train arrive in _____ 
+Når kommer vi fram til ||| NOR
+% How do I get to _____  
+Hvordan kommer jeg til ||| NOR
+% the train station 
+togstasjonen  ||| NOR
+% the bus station 
+bussholdeplassen  ||| NOR
+% the airport 
+flyplassen  ||| NOR
+% downtown 
+sentrum  ||| NOR
+% the youth hostel 
+ungdomsherberget  ||| NOR
+% the American embassy 
+den amerikanske ambassade  ||| NOR
+% Where are there 
+Hvor kan jeg finne  ||| NOR
+% hotels 
+hoteller  ||| NOR
+% restaurants 
+restauranter  ||| NOR
+% bars 
+barer  ||| NOR
+% sites to see 
+turistattraksjoner  ||| NOR
+% Can you show me ____ on the map 
+Kan du vise meg på kartet  ||| NOR
+% street 
+vei  ||| NOR
+% Turn left 
+Snu til venstre  ||| NOR
+% Turn right 
+Snu til høyre  ||| NOR
+% left 
+venstre  ||| NOR
+% right 
+høyre  ||| NOR
+% straight ahead 
+rett fram ||| NOR
+% towards the _____ 
+mot ||| NOR
+% past the _____ 
+forbi ||| NOR
+% before the _____ 
+rett før  ||| NOR
+% Watch for the _____ 
+Se etter ||| NOR
+% intersection 
+kryss  ||| NOR
+% roundabout 
+rundkjøring  ||| NOR
+% north 
+nord  ||| NOR
+% south 
+sør  ||| NOR
+% east 
+øst  ||| NOR
+% west 
+vest  ||| NOR
+% uphill 
+oppover ||| NOR
+% downhill 
+nedover ||| NOR
+% Take me to _____, please 
+Kan du kjøre meg til ||| NOR
+% How much does it cost to get to _____ 
+Hvor mye vil det koste å kjøre til ||| NOR
+% Take me there, please 
+Kan du kjøre meg dit  ||| NOR
+% Do you have any rooms available 
+Har du noen ledige rom  ||| NOR
+% How much is a room for two people 
+Hvor mye koster et dobbelt-rom  ||| NOR
+% Are bedsheets included in the price 
+Er sengetøy inkludert i prisen  ||| NOR
+% I would like some bedsheets 
+Kan jeg få med sengetøy  ||| NOR
+% I don't need/I bring my own bedsheets 
+Jeg trenger ikke sengetøy  ||| NOR
+% Does the room come with 
+Har rommet   ||| NOR
+% a bathroom 
+eget bad  ||| NOR
+% a telephone 
+egen telefon  ||| NOR
+% a TV 
+TV  ||| NOR
+% May I see the room first 
+Kan jeg få se rommet først  ||| NOR
+% Do you have anything _____ 
+Har du et rom  ||| NOR
+% quieter 
+mer stille  ||| NOR
+% bigger 
+større  ||| NOR
+% cleaner 
+renere  ||| NOR
+% cheaper 
+billigere  ||| NOR
+% OK, I'll take it 
+OK, jeg tar det  ||| NOR
+% I will stay for _____ night
+Jeg blir her netter  ||| NOR
+% Can you suggest another hotel 
+Har du et annet hotell å foreslå  ||| NOR
+% Do you have a safe 
+Har du en safe  ||| NOR
+% Do you have a locker 
+Har du ett låsbart skap  ||| NOR
+% Is breakfast included 
+Er frokost inkludert  ||| NOR
+% What time is breakfast 
+Når er det frokost  ||| NOR
+% Please clean my room 
+Kan du vaske rommet mitt  ||| NOR
+% Can you wake me at _____ 
+Kan du vekke meg klokka ||| NOR
+% I want to check out 
+Kan jeg få sjekke ut nå  ||| NOR
+% Do you accept American dollars 
+Godtar du amerikanske dollar  ||| NOR
+% Do you accept British pounds 
+Godtar du britiske pund  ||| NOR
+% Do you accept credit cards 
+Godtar du kredittkort  ||| NOR
+% Can you change money for me 
+Kan du hjelpe meg å veksle penger  ||| NOR
+% Where can I get money changed 
+Hvor kan jeg få vekslet penger  ||| NOR
+% Can you change a traveler's check for me 
+Kan du veksle en reisesjekk for meg  ||| NOR
+% Where can I get a traveler's check changed 
+Hvor kan jeg få vekslet reisesjekker  ||| NOR
+% What is the exchange rate for ___ 
+Hva er valutakursen for  ||| NOR
+% Where is an automatic teller machine  
+Hvor er nærmeste minibank  ||| NOR
+% A table for two people, please 
+Kan jeg få et bord for to personer  ||| NOR
+% Can I look at the menu, please 
+Kan jeg får se på menyen  ||| NOR
+% Can I look in the kitchen 
+Kan jeg få se kjøkkenet  ||| NOR
+% Is there a house specialty 
+Hva er spesialiteten deres  ||| NOR
+% Is there a local specialty 
+Er det en lokal rett jeg bør smake på  ||| NOR
+% I'm glutenintolerant 
+Jeg er glutenintolerant ||| NOR
+% I'm a vegetarian 
+Jeg er vegetarianer  ||| NOR
+% I don't eat pork 
+Jeg spiser ikke svinekjøtt  ||| NOR
+% I'm on a diet Can you make it "lite", please (less oil/butter/lard) 
+Jeg slanker meg Kan jeg få så lite fett som mulig  ||| NOR
+% fixed-price meal 
+dagens rett  ||| NOR
+% breakfast 
+frokost  ||| NOR
+% supper 
+middag  ||| NOR
+% I would like _____ 
+Kan jeg få  ||| NOR
+% I want a dish containing _____ 
+Jeg vil ha en rett med  ||| NOR
+% chicken 
+kylling  ||| NOR
+% beef 
+oksekjøtt  ||| NOR
+% fish 
+fisk  ||| NOR
+% ham 
+skinke  ||| NOR
+% sausage 
+pølse  ||| NOR
+% cheese 
+ost  ||| NOR
+% eggs 
+egg  ||| NOR
+% bread 
+brød  ||| NOR
+% toast 
+ristet brød  ||| NOR
+% noodles 
+nudler  ||| NOR
+% rice 
+ris  ||| NOR
+% beans 
+bønner  ||| NOR
+% May I have a glass of _____ 
+Kan jeg få et glass ||| NOR
+% May I have a cup of _____ 
+Kan jeg få en kopp ||| NOR
+% May I have a bottle of _____ 
+Kan jeg få en flaske ||| NOR
+% coffee 
+kaffe  ||| NOR
+% tea 
+te  ||| NOR
+% water 
+vann  ||| NOR
+% beer 
+øl  ||| NOR
+% red wine 
+rødvin/hvitvin  ||| NOR
+% white wine
+hvitvin ||| NOR
+% May I have some _____ 
+Kan jeg få litt  ||| NOR
+% butter 
+smør  ||| NOR
+% Excuse me, waiter (getting attention of server)
+Unnskyld, kelner  ||| NOR
+% I'm finished 
+Jeg er ferdig  ||| NOR
+% It was delicious 
+Det smakte utmerket  ||| NOR
+% Please clear the plates 
+Kan du ta med tallerknene  ||| NOR
+% The check, please 
+Kan jeg få regningen  ||| NOR
+% Do you serve alcohol 
+Serverer dere alkohol  ||| NOR
+% Is there table service 
+Kommer dere til bordene  ||| NOR
+% A beer/two beers, please 
+Kan jeg få en/to øl  ||| NOR
+% A glass of red/white wine, please 
+Kan jeg få et glass rødvin  ||| NOR
+% A pint, please 
+Kan jeg få en halvliter  ||| NOR
+% In a bottle, please 
+Kan jeg få det på flaske  ||| NOR
+% water 
+vann  ||| NOR
+% Do you have any bar snacks 
+Har du noe barsnacks  ||| NOR
+% One more, please 
+Kan jeg få en til  ||| NOR
+% Another round, please 
+En runde til!  ||| NOR
+% When is closing time 
+Når stenger dere  ||| NOR
+% Help, my hovercraft has been hijacked by angry dwarfs! Can I sleep at your place 
+Hjelp, mitt luftputefartøy har blitt kapret av sinte dverger! Kan jeg få sove hos deg  ||| NOR
+% Do you have this in my size 
+Har du denne i min størrelse  ||| NOR
+% How much is this
+Hvor mye koster denne ||| NOR
+% That's too expensive 
+Det er for dyrt  ||| NOR
+% Would you take _____ 
+Ville du godtatt ||| NOR
+% expensive 
+dyrt  ||| NOR
+% sale 
+salg
+% special offer 
+tilbud ||| NOR
+% discount 
+rabatt ||| NOR
+% cheap 
+billig  ||| NOR
+% I can't afford it 
+Jeg har desverre ikke råd  ||| NOR
+% I don't want it 
+Nei, jeg trenger den ikke  ||| NOR
+% I'm not interested 
+Desverre, jeg er ikke interresert  ||| NOR
+% OK, I'll take it 
+OK, jeg tar den  ||| NOR
+% Can I have a bag 
+Kan jeg få en pose  ||| NOR
+% Do you ship to ____ 
+Kan du sende ting til ___  ||| NOR
+% I need 
+Jeg trenger  ||| NOR
+% toothpaste 
+tannpasta ||| NOR
+% a toothbrush 
+en tannbørste  ||| NOR
+% soap 
+såpe  ||| NOR
+% shampoo 
+shampoo  ||| NOR
+% pain reliever 
+smertestillende  ||| NOR
+% cold medicine 
+hostesaft  ||| NOR
+% a razor 
+en barberhøvel  ||| NOR
+% an umbrella 
+en paraply  ||| NOR
+% sunscreen lotion 
+solkrem  ||| NOR
+% a postcard 
+ett postkort  ||| NOR
+% postage stamps 
+frimerker  ||| NOR
+% batteries 
+batterier  ||| NOR
+% writing paper 
+skrivepapir/brevpapir  ||| NOR
+% a pen 
+en penn  ||| NOR
+% English-language books 
+engelske bøker  ||| NOR
+% English-language magazines 
+engelske blader  ||| NOR
+% an English-language newspaper 
+en engelsk avis  ||| NOR
+% an English-Norwegian dictionary 
+en engelsk-norsk ordbok  ||| NOR
+% I want to rent a car 
+Kan jeg få leie en bil  ||| NOR
+% Can I get insurance 
+Kan jeg få forsikring  ||| NOR
+% one way 
+enveiskjørt  ||| NOR
+% yield 
+vikeplikt  ||| NOR
+% no parking 
+parkering forbudt  ||| NOR
+% speed limit 
+fartsgrense  ||| NOR
+% gas station 
+bensinstasjon  ||| NOR
+% I haven't done anything wrong 
+Jeg har ikke gjort noe galt  ||| NOR
+% It was a misunderstanding 
+Det var en misforståelse  ||| NOR
+% Where are you taking me 
+Hvor tar dere meg  ||| NOR
+% Am I under arrest 
+Er jeg arrestert  ||| NOR
+% I am an American citizen 
+Jeg er en amerikansk statsborger  ||| NOR
+% I demand to talk to the American embassy 
+Jeg forlanger å få snakke med den amerikanske ambassade  ||| NOR
+% I want to talk to a lawyer 
+Jeg vil ha en advokat  ||| NOR
+% Can I just pay a fine now 
+Kan jeg bare betale boten nå  ||| NOR
+% Hello. 
+Hallo.  ||| DUT
+% How are you? 
+Hoe maakt u het?  ||| DUT
+% How are you? (informal)
+Hoe gaat het?  ||| DUT
+% Fine, thank you. 
+Goed, dank u.  ||| DUT
+Fine, thank you.  (informal)
+Goed, dank je.  ||| DUT
+% What is your name? 
+Hoe heet u?  ||| DUT
+% What is your name? (informal)
+Hoe heet je?  ||| DUT
+% My name is ______ . 
+Mijn naam is  ||| DUT
+% Nice to meet you. 
+Aangenaam kennis te maken.  ||| DUT
+% Please. 
+Alstublieft.  ||| DUT
+% Thank you. 
+Dank u.  ||| DUT
+% Thank you. (informal)
+Dank je.  ||| DUT
+% You're welcome. 
+Graag gedaan.  ||| DUT
+% Yes. 
+Ja.  ||| DUT
+% No. 
+Nee.  ||| DUT
+Excuse me.  (getting attention) 
+Neemt u mij niet kwalijk.  ||| DUT
+% Excuse me. (begging pardon) 
+Sorry.  ||| DUT
+% I'm sorry. 
+het spijt me.  ||| DUT
+% Goodbye 
+Tot ziens.  ||| DUT
+% I can't speak Dutch. 
+Ik spreek geen Nederlands.  ||| DUT
+% I can't speak Dutch well. 
+Ik spreek niet goed Nederlands.  ||| DUT
+% Do you speak English? 
+Spreekt u Engels?  ||| DUT
+% Is there someone here who speaks English? 
+Spreekt hier iemand Engels?  ||| DUT
+% Good morning. 
+Goedemorgen.  ||| DUT
+% Good afternoon. 
+Goedemiddag  ||| DUT
+% Good evening. 
+Goedenavond.  ||| DUT
+% Good night. 
+Goede nacht.  ||| DUT
+% Good night (to sleep) 
+Slaap lekker.  ||| DUT
+% I don't understand. 
+Ik begrijp het niet.  ||| DUT
+% Where is the toilet? 
+Waar is het toilet?  ||| DUT
+% Leave me alone. 
+Laat me met rust.  ||| DUT
+% Don't touch me! 
+Blijf van me af!  ||| DUT
+% I'll call the police. 
+Ik bel de politie.  ||| DUT
+% Police! 
+Politie!  ||| DUT
+% Stop! Thief! 
+Stop! Dief!  ||| DUT
+% I need your help. 
+Ik heb uw hulp nodig.  ||| DUT
+% It's an emergency. 
+Het is een noodgeval.  ||| DUT
+% I'm lost. 
+Ik ben verdwaald.  ||| DUT
+% I lost my bag. 
+Ik heb mijn bagage verloren.  ||| DUT
+% I lost my wallet. 
+Ik heb mijn portefeuille verloren.  ||| DUT
+% I'm sick. 
+Ik ben misselijk.  ||| DUT
+% I'm injured. 
+Ik ben gewond.  ||| DUT
+% I need a doctor. 
+Ik heb een dokter nodig.  ||| DUT
+% Can I use your phone? 
+Mag ik uw telefoon gebruiken?  ||| DUT
+% 1 
+een  ||| DUT
+% 2 
+twee  ||| DUT
+% 3 
+drie  ||| DUT
+% 4 
+vier  ||| DUT
+% 5 
+vijf  ||| DUT
+% 6 
+zes  ||| DUT
+% 7 
+zeven  ||| DUT
+% 8 
+acht  ||| DUT
+% 9 
+negen  ||| DUT
+% 10 
+tien  ||| DUT
+% 11 
+elf  ||| DUT
+% 12 
+twaalf  ||| DUT
+% 13 
+dertien  ||| DUT
+% 14 
+veertien  ||| DUT
+% 15 
+vijftien  ||| DUT
+% 16 
+zestien  ||| DUT
+% 17 
+zeventien  ||| DUT
+% 18 
+achttien  ||| DUT
+% 19 
+negentien  ||| DUT
+% 20 
+twintig  ||| DUT
+% 21 
+eenentwintig  ||| DUT
+% 22 
+tweeëntwintig  ||| DUT
+% 23 
+drieentwintig  ||| DUT
+% 30 
+dertig  ||| DUT
+% 40 
+veertig  ||| DUT
+% 50 
+vijftig  ||| DUT
+% 60 
+zestig  ||| DUT
+% 70 
+zeventig  ||| DUT
+% 80 
+tachtig  ||| DUT
+% 90 
+negentig  ||| DUT
+% 100 
+honderd  ||| DUT
+% 200 
+tweehonderd  ||| DUT
+% 300 
+driehonderd  ||| DUT
+% 1000 
+duizend  ||| DUT
+% 2000 
+tweeduizend  ||| DUT
+% 1,000,000 
+een miljoen  ||| DUT
+% half 
+de helft  ||| DUT
+% less 
+minder  ||| DUT
+% more 
+meer  ||| DUT
+% before 
+voor  ||| DUT
+% now 
+nu  ||| DUT
+% later 
+later  ||| DUT
+% morning 
+ochtend  ||| DUT
+% afternoon 
+middag  ||| DUT
+% evening 
+avond  ||| DUT
+% night 
+nacht  ||| DUT
+% one o'clock  
+een uur  ||| DUT
+% two o'clock  |
+twee uur  ||| DUT
+% one o'clock AM 
+een uur's nachts  ||| DUT
+% two o'clock AM 
+twee uur's nachts  ||| DUT
+% noon 
+tussen de middag  ||| DUT
+% one o'clock PM 
+een uur 's middags  ||| DUT
+% two o'clock PM 
+twee uur 's middags  ||| DUT
+% midnight 
+middernacht  ||| DUT
+% the day before yesterday 
+eergisteren  ||| DUT
+% yesterday 
+gisteren  ||| DUT
+% today 
+vandaag  ||| DUT
+% tomorrow 
+morgen  ||| DUT
+% the day after tomorrow 
+overmorgen  ||| DUT
+% last week 
+vorige week  ||| DUT
+% this week 
+deze week  ||| DUT
+% next week 
+volgende week  ||| DUT
+% Monday 
+maandag  ||| DUT
+% Tuesday 
+dinsdag  ||| DUT
+% Wednesday 
+woensdag  ||| DUT
+% Thursday 
+donderdag  ||| DUT
+% Friday 
+vrijdag  ||| DUT
+% Saturday 
+zaterdag  ||| DUT
+% Sunday 
+zondag  ||| DUT
+% January 
+januari  ||| DUT
+% February 
+februari  ||| DUT
+% March 
+maart  ||| DUT
+% April 
+april  ||| DUT
+% May 
+mei  ||| DUT
+% June 
+juni  ||| DUT
+% July 
+juli  ||| DUT
+% August 
+augustus  ||| DUT
+% September 
+september  ||| DUT
+% October 
+oktober  ||| DUT
+% November 
+november  ||| DUT
+% December 
+december  ||| DUT
+% black 
+zwart  ||| DUT
+% white 
+wit  ||| DUT
+% gray 
+grijs  ||| DUT
+% red 
+rood  ||| DUT
+% blue 
+blauw  ||| DUT
+% yellow 
+geel  ||| DUT
+% green 
+groen  ||| DUT
+% orange 
+oranje  ||| DUT
+% purple 
+paars  ||| DUT
+% brown 
+bruin  ||| DUT
+% How much is a ticket to _____ 
+Hoeveel kost een ticket naar ||| DUT
+% One ticket to _____, please. 
+Een ticket naar  alstublieft.  ||| DUT
+% A one-way ticket, please. 
+Enkele reis, graag.  ||| DUT
+% A round trip, please. 
+Een retourtje, graag  ||| DUT
+% Where does this train go 
+Waar gaat deze trein heen  ||| DUT
+% Where is the train to _____ 
+Waar is de trein naar  ||| DUT
+% Does this train/bus stop in _____ 
+Stopt deze trein/bus in   ||| DUT
+% When does the train for _____ leave 
+Wanneer vertrekt de trein naar  ||| DUT
+% When will this train/bus arrive in _____ 
+Wanneer komt deze trein/bus aan in  ||| DUT
+% How do I get to   
+Hoe kom ik bij ||| DUT
+% the train station 
+het station ||| DUT
+% the bus station 
+het busstation  ||| DUT
+% the airport 
+de luchthaven  ||| DUT
+% downtown 
+het centrum  ||| DUT
+% the youth hostel 
+de jeugdherberg  ||| DUT
+% the Australian consulate 
+het Australisch consulaat  ||| DUT
+% Where are there a lot of  
+Waar zijn er veel   ||| DUT
+% sites to see 
+bezienswaardigheden  ||| DUT
+% Can you show me on the map 
+Kunt u mij dat tonen op de kaart  ||| DUT
+% street 
+straat  ||| DUT
+% Turn left. 
+Sla links af.  ||| DUT
+% Turn right. 
+Sla rechts af.  ||| DUT
+% left 
+links  ||| DUT
+% right 
+rechts  ||| DUT
+% straight ahead 
+rechtdoor  ||| DUT
+% towards the _____ 
+naar ||| DUT
+% past the _____ 
+na de/het ||| DUT
+% before the _____ 
+voor de ||| DUT
+% Watch for the _____. 
+Kijk uit voor de  ||| DUT
+% intersection 
+kruispunt  ||| DUT
+% roundabout 
+rotonde  ||| DUT
+% north 
+noorden  ||| DUT
+% south 
+zuiden  ||| DUT
+% east 
+oosten  ||| DUT
+% west 
+westen  ||| DUT
+% uphill 
+bergop  ||| DUT
+% downhill 
+bergaf  ||| DUT
+% Take me to _____, please. 
+Breng me naar  alstublieft. ||| DUT
+% How much does it cost to get to _____? 
+Wat kost het om naar  te gaan? ||| DUT
+% Take me there, please. 
+Breng me erheen, alstublieft. ||| DUT
+% Do you have any rooms available? 
+Heeft u kamers vrij? ||| DUT
+% How much is a room for one person? 
+Hoeveel kost een eenpersoonskamer? ||| DUT
+% Does the room come with bedsheets 
+Zijn er lakens in de kamer? ||| DUTv
+% May I see the room first? 
+Mag ik de kamer eerst zien? ||| DUT
+% Do you have anything quieter 
+Heeft u iets rustigers? ||| DUT
+% bigger 
+groter ||| DUT
+% cleaner
+schoner ||| DUT
+% cheaper
+goedkoper ||| DUT
+% OK, I'll take it. 
+Goed, ik neem deze. ||| DUT
+% I will stay for seven nights
+Ik blijf zeven nachten ||| DUT
+% Can you suggest another hotel? 
+Kan u mij een ander hotel aanraden? ||| DUT
+% Do you have a safe? 
+Heeft u een kluis? ||| DUT
+% lockers
+baggagekastjes ||| DUT
+% Is breakfast/supper included? 
+Is het ontbijt/avondeten inbegrepen? ||| DUT
+% What time is breakfast? 
+Hoe laat is het ontbijt? ||| DUT
+% Please clean my room. 
+Kunt u mijn kamer schoonmaken. ||| DUT
+% Can you wake me at _____? 
+Kunt u mij wekken om ||| DUT
+% I want to check out. 
+Ik wil vertrekken. ||| DUT
+% Do you accept Australian dollars? 
+Kan ik met Australische dollars betalen? ||| DUT 
+% Do you accept British pounds? 
+Kan ik met Britse ponden betalen? ||| DUT
+% Do you accept credit cards? 
+Kan ik met een credit card betalen? ||| DUT
+% Can you change money for me? 
+Kan u geld wisselen? ||| DUT
+% Where can I get money changed? 
+Waar kan ik geld wisselen? ||| DUT
+% Can you change a traveler's cheque for me? 
+Kan u een traveller's check wisselen? ||| DUT
+% Where can I get a traveler's cheque changed? 
+Waar kan ik een traveller's check wisselen? ||| DUT
+% What is the exchange rate? 
+Wat is de wisselkoers? ||| DUT
+% Where is an automatic teller machine? 
+Waar vind ik een geldautomaat? ||| DUT
+% A table for two people, please. 
+Een tafel voor twee alstublieft. ||| DUT
+% Can I look at the menu, please? 
+Mag ik het menu, alstublieft? ||| DUT
+% Can I look in the kitchen? 
+Mag ik de keuken zien, alstublieft? ||| DUT
+% Is there a house specialty? 
+Is er een specialiteit van het huis? ||| DUT
+% Is there a local specialty? 
+Serveert u streekgerechten? ||| DUT
+% I'm a vegetarian. 
+Ik ben vegetariër. ||| DUT
+% I don't eat pork. 
+Ik eet geen varkensvlees. ||| DUT
+% I only eat kosher food. 
+Ik eet alleen koosjer voedsel. ||| DUT
+% Can you make it "lite", please? (less oil/butter/lard) 
+Een licht gerecht, alstublieft? ||| DUT
+% fixed-price meal 
+dagschotel ||| DUT
+% breakfast 
+ontbijt ||| DUT
+% tea (meal) 
+vieruurtje ||| DUT
+% supper 
+avondeten ||| DUT
+% I want _____. 
+Ik wil ||| DUT
+% I want a dish containing _____. 
+Ik wil een gerecht met ||| DUT
+% chicken 
+kip ||| DUT
+% beef 
+rundvlees ||| DUT
+% fish 
+vis ||| DUT
+% ham 
+ham ||| DUT
+% sausage 
+worst ||| DUT
+% cheese 
+kaas ||| DUT
+% eggs 
+eieren ||| DUT
+% bread 
+brood ||| DUT
+% toast 
+toast ||| DUT
+% noodles 
+noedels ||| DUT
+% rice 
+rijst ||| DUT
+% beans 
+bonen ||| DUT
+% May I have a glass of _____? 
+Mag ik een glas ||| DUT
+% May I have a cup of _____? 
+Mag ik een kop ||| DUT
+% May I have a bottle of _____? 
+Mag ik een fles ||| DUT
+% coffee 
+koffie ||| DUT
+% juice 
+sap ||| DUT
+% water 
+water ||| DUT
+% beer 
+bier ||| DUT
+% red wine 
+rode wijn ||| DUT
+% white wine
+witte wijn ||| DUT
+% May I have some _____? 
+Mag ik wat ||| DUT
+% salt 
+zout ||| DUT
+% butter 
+boter ||| DUT
+% Excuse me, waiter?
+Ober? ||| DUT
+% I'm finished. 
+Ik ben klaar. ||| DUT
+% It was delicious. 
+Het was heel lekker. ||| DUT
+% Please clear the plates. 
+Kan u afruimen. ||| DUT
+% The check, please. 
+De rekening, alstublieft. ||| DUT
+% Do you serve alcohol? 
+Serveert u alcohol? ||| DUT
+% Is there table service? 
+Heeft u bediening aan tafel? ||| DUT
+% A beer, please. 
+Eén bier, alstublieft. ||| DUT
+% A glass of white wine, please. 
+Een glas witte wijn, alstublieft. ||| DUT
+% A pint, please. 
+Een pintje, alstublieft. ||| DUT
+% A bottle, please. 
+Een fles, alstublieft. ||| DUT
+% club soda 
+spuitwater ||| DUT
+% tonic water 
+tonic ||| DUT
+% orange juice 
+sinaasappelsap ||| DUT
+% Do you have any bar snacks? 
+Heeft u snacks? ||| DUT
+% One more, please. 
+Nog eentje, alstublieft. ||| DUT
+% Another round, please. 
+Nog een rondje, alstublieft. ||| DUT
+% When is closing time? 
+Hoe laat is de sluitingstijd? ||| DUT
+% Whats a sweet girl like you doing in a place like this? 
+Wat doet een lief meisje als jij op een plaats als deze? ||| DUT
+% My place or yours? 
+Bij mij thuis, of bij jou? ||| DUT
+% Do you have this in my size? 
+Heeft u dit in mijn maat? ||| DUT
+% How much is this? 
+Hoeveel kost dit? ||| DUT
+% That's too expensive. 
+Dat is te duur. ||| DUT
+% Would you take _____? 
+Accepteert u ||| DUT
+% expensive 
+duur ||| DUT
+% cheap 
+goedkoop ||| DUT
+% I can't afford it. 
+Dat kan ik niet betalen. ||| DUT
+% I don't want it. 
+Ik wil het niet. ||| DUT
+% You're cheating me. 
+U bedriegt me. ||| DUT
+% I'm not interested. 
+Ik ben niet geinteresseerd. ||| DUT
+% OK, I'll take it. 
+OK, Ik neem het. ||| DUT
+% Can I have a bag? 
+Heeft u een zakje voor mij? ||| DUT
+% Do you ship overseas?
+Doet u leveringen naar het buitenland? ||| DUT
+% I need 
+Ik heb  nodig. ||| DUT
+% toothpaste
+tandpasta ||| DUT
+% a toothbrush
+een tandenborstel ||| DUT
+% soap 
+zeep. ||| DUT
+% cold medicine
+hoestsiroop ||| DUT
+% stomach medicine
+maagtabletjes ||| DUT
+% a razor
+een scheermes ||| DUT
+% an umbrella
+een paraplu ||| DUT
+% sunblock lotion
+zonnebrand ||| DUT
+% a postcard
+een postkaart ||| DUT
+% postage stamps
+postzegels ||| DUT
+% batteries
+batterijen ||| DUT
+% writing paper
+schrijfpapier ||| DUT
+% a pen 
+een pen ||| DUT
+% English-language books 
+engelstalige boeken ||| DUT
+% English-language magazines 
+engelstalige tijdschriften ||| DUT
+% an English-language newspaper
+een engelstalige krant ||| DUT
+% an Dutch-English dictionary
+een Nederlands-Engels woordenboek. ||| DUT
+% I want to rent a car. 
+Ik wil een auto huren. ||| DUT
+% Can I get insurance? 
+kan ik verzekering krijgen? ||| DUT
+% one way 
+eenrichtingsverkeer ||| DUT
+% yield 
+geef voorrang ||| DUT
+% no parking 
+niet parkeren ||| DUT
+% speed limit 
+snelheidslimiet ||| DUT
+% gas station 
+tankstation ||| DUT
+% I haven't done anything wrong. 
+Ik heb niks verkeerd gedaan. ||| DUT
+% It was a misunderstanding. 
+Het was een misverstand. ||| DUT
+% Where are you taking me? 
+Waar brengt u me heen? ||| DUT
+% Am I under arrest? 
+Sta ik onder arrest? ||| DUT
+% I am an Australian citizen. 
+Ik ben een Australisch staatsburger. ||| DUT
+% I want to talk to the Australian consulate. 
+Ik wil met het Australische consulaat spreken. ||| DUT 
+% I want to talk to a lawyer. 
+Ik wil een advocaat spreken. ||| DUT
+% Can I just pay a fine now? 
+Kan ik gewoon nu een boete betalen? ||| DUT
