@@ -1237,7 +1237,7 @@ Ville du godtatt ||| NOR
 % expensive 
 dyrt  ||| NOR
 % sale 
-salg
+salg ||| NOR
 % special offer 
 tilbud ||| NOR
 % discount 
@@ -1332,7 +1332,7 @@ Hoe maakt u het?  ||| DUT
 Hoe gaat het?  ||| DUT
 % Fine, thank you. 
 Goed, dank u.  ||| DUT
-Fine, thank you.  (informal)
+% Fine, thank you.  (informal)
 Goed, dank je.  ||| DUT
 % What is your name? 
 Hoe heet u?  ||| DUT
@@ -1354,7 +1354,7 @@ Graag gedaan.  ||| DUT
 Ja.  ||| DUT
 % No. 
 Nee.  ||| DUT
-Excuse me.  (getting attention) 
+% Excuse me.  (getting attention) 
 Neemt u mij niet kwalijk.  ||| DUT
 % Excuse me. (begging pardon) 
 Sorry.  ||| DUT
